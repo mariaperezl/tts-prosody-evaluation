@@ -1,4 +1,4 @@
-# **Avaliación prosódica de TTS en galego: estímulos e resultados perceptivos.**
+# **Avaliación prosódica de TTS en galego: estímulos e resultados.**
 Este repositorio reúne os audios e os resultados dun estudo sobre o recoñecemento da modalidade oracional e a prototipicidade entoativa de enunciados interrogativos, exclamativos e suspensivos producidos por dous modelos de síntese de voz en galego: Iago e Paulo.
 A investigación combina a caracterización dos corpus de adestramento coa avaliación perceptiva e a análise acústica das producións naturais e sintéticas.
 
