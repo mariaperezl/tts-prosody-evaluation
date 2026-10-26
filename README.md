@@ -1,4 +1,4 @@
-Evaluación prosódica de TTS en gallego: estímulos y resultados perceptivos.
+*Evaluación prosódica de TTS en gallego: estímulos y resultados perceptivos.*
 
 Este repositorio reúne los audios y los resultados de un estudio sobre el reconocimiento de la modalidad oracional y la prototipicidad entonativa de enunciados interrogativos, exclamativos y en suspenso producidos por dos modelos de síntesis de voz en gallego: Iago y Paulo.
 La investigación combina la caracterización de los corpus de entrenamiento con la evaluación perceptiva y el análisis acústico de las producciones naturales y sintéticas.
