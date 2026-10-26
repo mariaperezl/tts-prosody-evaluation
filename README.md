@@ -11,7 +11,7 @@ A investigación combina a caracterización dos corpus de adestramento coa avali
 A análise articúlase en tres ámbitos:
 1. **Caracterización dos corpus**: distribución das modalidades oracionais segundo a puntuación e lonxitude dos enunciados. Esta clasificación describe o texto, pero non garante que as gravacións reproduzan os patróns prosódicos correspondentes.
 2. **Avaliación perceptiva**: identificación da modalidade e valoración da súa prototipicidade entoativa nunha escala de 1 (nada representativa) a 5 (moi representativa).
-3. **Análise acústica^^: comparación da F0 das producións naturais e sintéticas, atendendo aos valores medio, máximo e mínimo e á evolución do contorno melódico.
+3. **Análise acústica**: comparación da F0 das producións naturais e sintéticas, atendendo aos valores medio, máximo e mínimo e á evolución do contorno melódico.
 
 ## **Xeración das mostras sintéticas**
 As mostras sintéticas xeráronse mediante a demo Nós-TTS. Para cada enunciado seleccionouse a primeira síntese obtida.
